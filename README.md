@@ -8,6 +8,6 @@ It's an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) plugin, choses a
 
 And add the plugin in ~/.zshrc
 
-`plugins=(... randme)`
+`plugins=(... randeme)`
 
-\[You have to source the ~/.zshrc to see changes\]
+*NOTE: You have to source the ~/.zshrc to see changes
