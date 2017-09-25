@@ -10,4 +10,4 @@ And add the plugin in ~/.zshrc
 
 `plugins=(... randeme)`
 
-*NOTE: You have to source the ~/.zshrc to see changes
+NOTE: You have to source the ~/.zshrc to see changes
