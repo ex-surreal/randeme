@@ -5,3 +5,9 @@ It's an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) plugin, choses a
 #### Installation
 
 `git clone https://github.com/ex-surreal/randeme.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/randeme`
+
+And add the plugin in ~/.zshrc
+
+`plugins=(... randme)`
+
+\[You have to source the ~/.zshrc to see changes\]
